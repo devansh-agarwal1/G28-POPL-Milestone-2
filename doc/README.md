@@ -41,10 +41,14 @@ Pattern matching, being a fundamental property of Haskell, has more advantages b
 Lazy Evaluations: 
 a) Haskell uses lazy evaluation, and functions like zip and filter work well in a lazy context. They only evaluate elements as needed, leading to more efficient code.
 b) C++ doesnt use lazy evaluation, thus making it less efficient in this aspect.
+![filter and zip](https://github.com/devansh-agarwal1/G28-POPL-Milestone-2/assets/119934651/afad96b4-86b4-4288-a589-c55ee725977f)
+
 
 Higher-Order Functions: 
 a) The Haskell code utilizes higher-order functions like maximumBy from the Data.List module, which takes a comparison function as an argument.
 b) C++ doesn't leverage higher-order functions or functional programming paradigms extensively.
+![maximumBy](https://github.com/devansh-agarwal1/G28-POPL-Milestone-2/assets/119934651/47566b49-9a54-4156-aa30-9839a98b98f1)
+
 
 Monadic IO Actions: 
 a) In Haskell, The main function is structured using monadic IO actions (do notation) to handle input and output operations.
