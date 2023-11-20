@@ -66,6 +66,9 @@ HASKELL TEST LOGS:
 ![Weak_Passwords](https://github.com/devansh-agarwal1/G28-POPL-Milestone-2/assets/119934651/37fb989d-4f50-4f6d-9269-af7a22690642)
 
 C++ TEST LOGS:
+<img width="817" alt="Medium_Passwords" src="https://github.com/devansh-agarwal1/G28-POPL-Milestone-2/assets/119934651/101190a2-1f5b-4a25-99f4-522da2859f03">
+<img width="809" alt="Strong_Passwords" src="https://github.com/devansh-agarwal1/G28-POPL-Milestone-2/assets/119934651/d9500b01-165c-4300-b6b1-28a3826a933e">
+<img width="789" alt="Weak_Passwords" src="https://github.com/devansh-agarwal1/G28-POPL-Milestone-2/assets/119934651/6f2b4881-e6e8-44a6-b86b-6e728b3973e1">
 
 
 
