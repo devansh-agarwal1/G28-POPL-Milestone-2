@@ -42,9 +42,14 @@ Lazy Evaluations:
 a) Haskell uses lazy evaluation, and functions like zip and filter work well in a lazy context. They only evaluate elements as needed, leading to more efficient code.
 b) C++ doesnt use lazy evaluation, thus making it less efficient in this aspect.
 
+![filter and zip](https://github.com/devansh-agarwal1/G28-POPL-Milestone-2/assets/119934651/3d3d5c5b-3e13-4b00-ad34-74f5be034239)
+
+
 Higher-Order Functions: 
 a) The Haskell code utilizes higher-order functions like maximumBy from the Data.List module, which takes a comparison function as an argument.
 b) C++ doesn't leverage higher-order functions or functional programming paradigms extensively.
+![maximumBy](https://github.com/devansh-agarwal1/G28-POPL-Milestone-2/assets/119934651/3641a6b2-78a3-47a3-9622-0758a753f8ce)
+
 
 Monadic IO Actions: 
 a) In Haskell, The main function is structured using monadic IO actions (do notation) to handle input and output operations.
